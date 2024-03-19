@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @mirakulman
+
+<!---
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Front End
 
